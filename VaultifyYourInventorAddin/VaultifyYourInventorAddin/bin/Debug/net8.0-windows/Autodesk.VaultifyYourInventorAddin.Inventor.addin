@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor Version 30.0-->
+  <ClassId>{56F7F41D-1C10-4D28-AFB4-D6A9CC715338}</ClassId>
+  <ClientId>{56F7F41D-1C10-4D28-AFB4-D6A9CC715338}</ClientId>
+  <DisplayName>VaultifyYourInventorAddin</DisplayName>
+  <Description>VaultifyYourInventorAddin</Description>
+  <Assembly>VaultifyYourInventorAddin.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>29..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TiffanyHayden\\Documents\\GitHub\\AU2026-MFG1906_VaultifyYourInventorAddin\\VaultifyYourInventorAddin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.313\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F5963E-7697-496A-8654-E28C7A1CAEA2}|VaultifyYourInventorAddin\\VaultifyYourInventorAddin.csproj|c:\\users\\tiffanyhayden\\documents\\github\\au2026-mfg1906_vaultifyyourinventoraddin\\vaultifyyourinventoraddin\\vaultifyyourinventoraddin\\vaultifyyourinventoraddin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48F5963E-7697-496A-8654-E28C7A1CAEA2}|VaultifyYourInventorAddin\\VaultifyYourInventorAddin.csproj|solutionrelative:vaultifyyourinventoraddin\\vaultifyyourinventoraddin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VaultifyYourInventorAddin",
+              "DocumentMoniker": "C:\\Users\\TiffanyHayden\\Documents\\GitHub\\AU2026-MFG1906_VaultifyYourInventorAddin\\VaultifyYourInventorAddin\\VaultifyYourInventorAddin\\VaultifyYourInventorAddin.csproj",
+              "RelativeDocumentMoniker": "VaultifyYourInventorAddin\\VaultifyYourInventorAddin.csproj",
+              "ToolTip": "C:\\Users\\TiffanyHayden\\Documents\\GitHub\\AU2026-MFG1906_VaultifyYourInventorAddin\\VaultifyYourInventorAddin\\VaultifyYourInventorAddin\\VaultifyYourInventorAddin.csproj",
+              "RelativeToolTip": "VaultifyYourInventorAddin\\VaultifyYourInventorAddin.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-01T17:29:54.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.NET.TargetFrameworkInference.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.313\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.313\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.313\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.313\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ViewState": "AgIAAEsAAAAAAAAAAADwv1IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-08-01T17:29:44.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\ProgramData\Autodesk\Inventor Addins\VaultifyYourInventorAddin\net10.0-windows\Autodesk.VaultifyYourInventorAddin.Inventor.addin
+C:\ProgramData\Autodesk\Inventor Addins\VaultifyYourInventorAddin\net10.0-windows\VaultifyYourInventorAddin.deps.json
+C:\ProgramData\Autodesk\Inventor Addins\VaultifyYourInventorAddin\net10.0-windows\VaultifyYourInventorAddin.dll
+C:\ProgramData\Autodesk\Inventor Addins\VaultifyYourInventorAddin\net10.0-windows\VaultifyYourInventorAddin.pdb
+C:\Users\TiffanyHayden\Documents\GitHub\AU2026-MFG1906_VaultifyYourInventorAddin\VaultifyYourInventorAddin\VaultifyYourInventorAddin\obj\Debug\net10.0-windows\VaultifyYourInventorAddin.csproj.AssemblyReference.cache
+C:\Users\TiffanyHayden\Documents\GitHub\AU2026-MFG1906_VaultifyYourInventorAddin\VaultifyYourInventorAddin\VaultifyYourInventorAddin\obj\Debug\net10.0-windows\VaultifyYourInventorAddin.Resources.resources
+C:\Users\TiffanyHayden\Documents\GitHub\AU2026-MFG1906_VaultifyYourInventorAddin\VaultifyYourInventorAddin\VaultifyYourInventorAddin\obj\Debug\net10.0-windows\VaultifyYourInventorAddin.csproj.GenerateResource.cache
+C:\Users\TiffanyHayden\Documents\GitHub\AU2026-MFG1906_VaultifyYourInventorAddin\VaultifyYourInventorAddin\VaultifyYourInventorAddin\obj\Debug\net10.0-windows\VaultifyYourInventorAddin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TiffanyHayden\Documents\GitHub\AU2026-MFG1906_VaultifyYourInventorAddin\VaultifyYourInventorAddin\VaultifyYourInventorAddin\obj\Debug\net10.0-windows\VaultifyYourInventorAddin.csproj.CoreCompileInputs.cache
+C:\Users\TiffanyHayden\Documents\GitHub\AU2026-MFG1906_VaultifyYourInventorAddin\VaultifyYourInventorAddin\VaultifyYourInventorAddin\obj\Debug\net10.0-windows\Vaultify.05A80420.Up2Date
+C:\Users\TiffanyHayden\Documents\GitHub\AU2026-MFG1906_VaultifyYourInventorAddin\VaultifyYourInventorAddin\VaultifyYourInventorAddin\obj\Debug\net10.0-windows\VaultifyYourInventorAddin.dll
+C:\Users\TiffanyHayden\Documents\GitHub\AU2026-MFG1906_VaultifyYourInventorAddin\VaultifyYourInventorAddin\VaultifyYourInventorAddin\obj\Debug\net10.0-windows\refint\VaultifyYourInventorAddin.dll
+C:\Users\TiffanyHayden\Documents\GitHub\AU2026-MFG1906_VaultifyYourInventorAddin\VaultifyYourInventorAddin\VaultifyYourInventorAddin\obj\Debug\net10.0-windows\VaultifyYourInventorAddin.pdb
+C:\Users\TiffanyHayden\Documents\GitHub\AU2026-MFG1906_VaultifyYourInventorAddin\VaultifyYourInventorAddin\VaultifyYourInventorAddin\obj\Debug\net10.0-windows\ref\VaultifyYourInventorAddin.dll

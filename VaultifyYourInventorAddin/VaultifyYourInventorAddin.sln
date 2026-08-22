@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.5.11716.220 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaultifyYourInventorAddin", "VaultifyYourInventorAddin\VaultifyYourInventorAddin.csproj", "{48F5963E-7697-496A-8654-E28C7A1CAEA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48F5963E-7697-496A-8654-E28C7A1CAEA2}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{48F5963E-7697-496A-8654-E28C7A1CAEA2}.Debug|Any CPU.Build.0 = Debug|x64
+		{48F5963E-7697-496A-8654-E28C7A1CAEA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F5963E-7697-496A-8654-E28C7A1CAEA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18F8288B-53B0-41E5-890D-C93C3BAC872E}
+	EndGlobalSection
+EndGlobal

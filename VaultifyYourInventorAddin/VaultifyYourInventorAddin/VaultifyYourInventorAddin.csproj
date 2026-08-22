@@ -1,0 +1,144 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <ProjectType>Local</ProjectType>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <RootNamespace>VaultifyYourInventorAddin</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>
+    </StartupObject>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <UseWindowsForms>true</UseWindowsForms>
+    <OutputPath>C:\ProgramData\Autodesk\Inventor Addins\VaultifyYourInventorAddin\</OutputPath>
+    <UseWPF>true</UseWPF>
+    <Platforms>x64</Platforms>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DocumentationFile>
+    </DocumentationFile>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DocumentationFile>
+    </DocumentationFile>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <DebugType>none</DebugType>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableDefaultItems>false</EnableDefaultItems>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Update="System">
+      <Name>System</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BoxForm.xaml.cs" />
+    <Compile Include="CustomRibbon.cs" />
+    <Compile Include="Globals.cs" />
+    <Compile Include="InventorEventHandler.cs" />
+    <Compile Include="ImageConverter.cs" />
+    <Compile Include="InventorUtilities.cs" />
+    <Compile Include="Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="StandardAddInServer.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="Utilities.cs" />
+    <Compile Include="VaultConn.cs" />
+    <Compile Include="VaultFileUtilities.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="VaultifyYourInventorAddin.X.manifest" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Autodesk.VaultifyYourInventorAddin.Inventor.addin">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Readme.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="BoxForm.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Autodesk.Connectivity.Explorer.Extensibility">
+      <HintPath>..\..\..\..\..\..\..\ProgramData\Autodesk\ApplicationPlugins\VaultInventor2027.bundle\Contents\Autodesk.Connectivity.Explorer.Extensibility.dll</HintPath>
+    </Reference>
+    <Reference Include="Autodesk.Connectivity.WebServices">
+      <HintPath>..\..\..\..\..\..\..\ProgramData\Autodesk\ApplicationPlugins\VaultInventor2027.bundle\Contents\Autodesk.Connectivity.WebServices.dll</HintPath>
+    </Reference>
+    <Reference Include="Autodesk.DataManagement.Client.Framework">
+      <HintPath>..\..\..\..\..\..\..\ProgramData\Autodesk\ApplicationPlugins\VaultInventor2027.bundle\Contents\Autodesk.DataManagement.Client.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="Autodesk.DataManagement.Client.Framework.Forms">
+      <HintPath>..\..\..\..\..\..\..\ProgramData\Autodesk\ApplicationPlugins\VaultInventor2027.bundle\Contents\Autodesk.DataManagement.Client.Framework.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="Autodesk.DataManagement.Client.Framework.Vault">
+      <HintPath>..\..\..\..\..\..\..\ProgramData\Autodesk\ApplicationPlugins\VaultInventor2027.bundle\Contents\Autodesk.DataManagement.Client.Framework.Vault.dll</HintPath>
+    </Reference>
+    <Reference Include="Autodesk.DataManagement.Client.Framework.Vault.Forms">
+      <HintPath>..\..\..\..\..\..\..\ProgramData\Autodesk\ApplicationPlugins\VaultInventor2027.bundle\Contents\Autodesk.DataManagement.Client.Framework.Vault.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="Autodesk.Inventor.Interop">
+      <HintPath>..\..\..\..\..\..\..\Program Files\Autodesk\Inventor 2027\Bin\Autodesk.Inventor.Interop.dll</HintPath>
+    </Reference>
+    <Reference Include="Connectivity.InventorAddin.EdmAddin">
+      <HintPath>..\..\..\..\..\..\..\ProgramData\Autodesk\ApplicationPlugins\VaultInventor2027.bundle\Contents\Connectivity.InventorAddin.EdmAddin.dll</HintPath>
+    </Reference>
+    <Reference Include="stdole">
+      <HintPath>..\..\..\..\..\..\..\Program Files\Microsoft Visual Studio\2022\Professional\Common7\IDE\PublicAssemblies\stdole.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <PropertyGroup>
+  <ApplicationManifest>VaultifyYourInventorAddin.X.manifest</ApplicationManifest>
+</PropertyGroup>
+</Project>

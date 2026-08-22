@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity name="VaultifyYourInventorAddin" version="1.0.0.0"></assemblyIdentity>
+
+  <clrClass clsid="{E4B8221D-4004-4150-BBDA-25237FC27143}" progid="VaultifyYourInventorAddin.StandardAddInServer" threadingModel="Both" name="VaultifyYourInventorAddin.StandardAddInServer" runtimeVersion=""></clrClass>
+
+  <file name="VaultifyYourInventorAddin.dll" hashalg="SHA1"></file>
+
+</assembly>

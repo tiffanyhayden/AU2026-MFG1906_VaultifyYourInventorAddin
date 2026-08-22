@@ -1,0 +1,24 @@
+C:\Users\TiffanyHayden\Documents\GitHub\AU2026-MFG1906_VaultifyYourInventorAddin\VaultifyYourInventorAddin\VaultifyYourInventorAddin\bin\Debug\net8.0-windows\VaultifyYourInventorAddin.deps.json
+C:\Users\TiffanyHayden\Documents\GitHub\AU2026-MFG1906_VaultifyYourInventorAddin\VaultifyYourInventorAddin\VaultifyYourInventorAddin\bin\Debug\net8.0-windows\VaultifyYourInventorAddin.dll
+C:\Users\TiffanyHayden\Documents\GitHub\AU2026-MFG1906_VaultifyYourInventorAddin\VaultifyYourInventorAddin\VaultifyYourInventorAddin\bin\Debug\net8.0-windows\VaultifyYourInventorAddin.pdb
+C:\Users\TiffanyHayden\Documents\GitHub\AU2026-MFG1906_VaultifyYourInventorAddin\VaultifyYourInventorAddin\VaultifyYourInventorAddin\bin\Debug\net8.0-windows\Autodesk.Inventor.Interop.dll
+C:\Users\TiffanyHayden\Documents\GitHub\AU2026-MFG1906_VaultifyYourInventorAddin\VaultifyYourInventorAddin\VaultifyYourInventorAddin\bin\Debug\net8.0-windows\stdole.dll
+C:\Users\TiffanyHayden\Documents\GitHub\AU2026-MFG1906_VaultifyYourInventorAddin\VaultifyYourInventorAddin\VaultifyYourInventorAddin\bin\Debug\net8.0-windows\Autodesk.Inventor.Interop.xml
+C:\Users\TiffanyHayden\Documents\GitHub\AU2026-MFG1906_VaultifyYourInventorAddin\VaultifyYourInventorAddin\VaultifyYourInventorAddin\obj\Debug\net8.0-windows\VaultifyYourInventorAddin.csproj.AssemblyReference.cache
+C:\Users\TiffanyHayden\Documents\GitHub\AU2026-MFG1906_VaultifyYourInventorAddin\VaultifyYourInventorAddin\VaultifyYourInventorAddin\obj\Debug\net8.0-windows\VaultifyYourInventorAddin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TiffanyHayden\Documents\GitHub\AU2026-MFG1906_VaultifyYourInventorAddin\VaultifyYourInventorAddin\VaultifyYourInventorAddin\obj\Debug\net8.0-windows\VaultifyYourInventorAddin.csproj.CoreCompileInputs.cache
+C:\Users\TiffanyHayden\Documents\GitHub\AU2026-MFG1906_VaultifyYourInventorAddin\VaultifyYourInventorAddin\VaultifyYourInventorAddin\obj\Debug\net8.0-windows\VaultifyYourInventorAddin.sourcelink.json
+C:\Users\TiffanyHayden\Documents\GitHub\AU2026-MFG1906_VaultifyYourInventorAddin\VaultifyYourInventorAddin\VaultifyYourInventorAddin\obj\Debug\net8.0-windows\CodingCA.74CD6345.Up2Date
+C:\Users\TiffanyHayden\Documents\GitHub\AU2026-MFG1906_VaultifyYourInventorAddin\VaultifyYourInventorAddin\VaultifyYourInventorAddin\obj\Debug\net8.0-windows\VaultifyYourInventorAddin.dll
+C:\Users\TiffanyHayden\Documents\GitHub\AU2026-MFG1906_VaultifyYourInventorAddin\VaultifyYourInventorAddin\VaultifyYourInventorAddin\obj\Debug\net8.0-windows\refint\VaultifyYourInventorAddin.dll
+C:\Users\TiffanyHayden\Documents\GitHub\AU2026-MFG1906_VaultifyYourInventorAddin\VaultifyYourInventorAddin\VaultifyYourInventorAddin\obj\Debug\net8.0-windows\VaultifyYourInventorAddin.pdb
+C:\Users\TiffanyHayden\Documents\GitHub\AU2026-MFG1906_VaultifyYourInventorAddin\VaultifyYourInventorAddin\VaultifyYourInventorAddin\obj\Debug\net8.0-windows\ref\VaultifyYourInventorAddin.dll
+C:\Users\TiffanyHayden\Documents\GitHub\AU2026-MFG1906_VaultifyYourInventorAddin\VaultifyYourInventorAddin\VaultifyYourInventorAddin\obj\Debug\net8.0-windows\VaultifyYourInventorAddin.Resources.resources
+C:\Users\TiffanyHayden\Documents\GitHub\AU2026-MFG1906_VaultifyYourInventorAddin\VaultifyYourInventorAddin\VaultifyYourInventorAddin\obj\Debug\net8.0-windows\VaultifyYourInventorAddin.csproj.GenerateResource.cache
+C:\Users\TiffanyHayden\Documents\GitHub\AU2026-MFG1906_VaultifyYourInventorAddin\VaultifyYourInventorAddin\VaultifyYourInventorAddin\bin\Debug\net8.0-windows\Autodesk.VaultifyYourInventorAddin.Inventor.addin
+C:\Users\TiffanyHayden\Documents\GitHub\AU2026-MFG1906_VaultifyYourInventorAddin\VaultifyYourInventorAddin\VaultifyYourInventorAddin\bin\Debug\net8.0-windows\Microsoft.VisualStudio.Interop.dll
+C:\Users\TiffanyHayden\Documents\GitHub\AU2026-MFG1906_VaultifyYourInventorAddin\VaultifyYourInventorAddin\VaultifyYourInventorAddin\bin\Debug\net8.0-windows\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\ProgramData\Autodesk\Inventor Addins\VaultifyYourInventorAddin\net8.0-windows\Autodesk.VaultifyYourInventorAddin.Inventor.addin
+C:\ProgramData\Autodesk\Inventor Addins\VaultifyYourInventorAddin\net8.0-windows\VaultifyYourInventorAddin.deps.json
+C:\ProgramData\Autodesk\Inventor Addins\VaultifyYourInventorAddin\net8.0-windows\VaultifyYourInventorAddin.dll
+C:\ProgramData\Autodesk\Inventor Addins\VaultifyYourInventorAddin\net8.0-windows\VaultifyYourInventorAddin.pdb
